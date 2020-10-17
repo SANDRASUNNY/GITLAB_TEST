@@ -1,0 +1,5 @@
+MODULE,DESCRIPTION,MESSAGE,STATUS
+GITLAB LOGIN,Username Validation,This field is required.,Success
+GITLAB LOGIN,Validation message for password is displayed,This field is required.,Success
+GITLAB LOGIN,There are validation for invalid inputs,Invalid Login or password.,Success
+GITLAB LOGIN,Successfully entered,Successfully entered,Success
